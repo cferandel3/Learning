@@ -1,0 +1,22 @@
+Here's a list of some of the top statistical tests along with brief descriptions of when they are appropriate to use:
+
+t-test:
+Appropriate for: Comparing means of two independent samples (independent samples t-test) or comparing a sample mean to a known value (one-sample t-test). Use when comparing means of continuous data from two groups or testing the effectiveness of an intervention.
+ANOVA (Analysis of Variance):
+Appropriate for: Comparing means of more than two independent groups. Use when comparing means of continuous data across multiple groups, such as in experiments with multiple treatment groups or categorical factors.
+Chi-square test:
+Appropriate for: Testing the independence of categorical variables. Use when examining the association between two categorical variables, such as in contingency tables or survey data analysis.
+Linear Regression:
+Appropriate for: Modeling the relationship between one dependent variable and one or more independent variables. Use when exploring the relationship between continuous variables, predicting outcomes, or identifying significant predictors.
+Logistic Regression:
+Appropriate for: Modeling the relationship between a binary dependent variable and one or more independent variables. Use when predicting binary outcomes or examining the association between predictors and the likelihood of an event occurring.
+Mann-Whitney U test:
+Appropriate for: Comparing distributions of two independent samples when assumptions of normality and equal variance are violated. Use when comparing ordinal or continuous data from two groups, especially with small sample sizes or non-normally distributed data.
+Wilcoxon signed-rank test:
+Appropriate for: Comparing distributions of two related samples (paired data) when assumptions of normality are violated. Use when comparing ordinal or continuous data from paired samples, such as in before-and-after studies or matched pairs designs.
+Kruskal-Wallis test:
+Appropriate for: Comparing distributions of more than two independent samples when assumptions of normality and equal variance are violated. Use when comparing ordinal or continuous data across multiple groups, especially with non-normally distributed data.
+Pearson correlation coefficient (Pearson's r):
+Appropriate for: Measuring the strength and direction of a linear relationship between two continuous variables. Use when assessing the association between two variables, such as examining the relationship between height and weight.
+Spearman correlation coefficient (Spearman's rho):
+Appropriate for: Measuring the strength and direction of a monotonic relationship between two ordinal or continuous variables. Use when assessing the association between variables without assuming linearity, especially with non-normally distributed data or outliers.
